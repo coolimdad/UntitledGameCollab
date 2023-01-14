@@ -1,0 +1,13 @@
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\bin\Debug\OpenGL.dll
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\bin\Debug\OpenGL.dll.config
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\obj\x86\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\obj\x86\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\obj\x86\Debug\Game.csproj.CopyComplete
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\bin\Debug\Game.exe.config
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\bin\Debug\Game.exe
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\bin\Debug\Game.pdb
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\obj\x86\Debug\Game.exe
+C:\Users\Priory\Downloads\opengl4tutorials\OpenGLTutorial2\OpenGLTutorial2\obj\x86\Debug\Game.pdb
